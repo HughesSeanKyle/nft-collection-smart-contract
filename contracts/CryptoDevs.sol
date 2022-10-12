@@ -4,6 +4,8 @@ pragma solidity ^0.8.4;
 /*
     Address: 0xD5357C7235192a870A2720C77EA6de38905b6eF0
     Etherscan: https://goerli.etherscan.io/address/0xD5357C7235192a870A2720C77EA6de38905b6eF0
+
+    POST URI update Address: 0x4110311A43F652A6f61a3AFEb48F9c4E4dC89Dec
 */
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";

@@ -6,9 +6,7 @@ interface IWhitelist {
 }
 
 /*
-    Question
-    - How does this contract know which whitelist contract to call - Look into this 
-    - btw, think of this function as an API endpoint
-        - APIs allows your client to INTERFACE with the data provided by the endpoint
+   When initializing the CryptoDevs contract the Whilelist contract is initialized in the constructor 
+    - with the respective address for the whitelist => 
 
 */
